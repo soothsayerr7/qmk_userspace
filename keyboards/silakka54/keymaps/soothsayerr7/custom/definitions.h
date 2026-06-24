@@ -6,7 +6,6 @@
 #define HOME_R LALT_T(KC_R)
 #define HOME_T LCTL_T(KC_T)
 #define HOME_S LSFT_T(KC_S)
-#define HOME_G LT(_ACCNT, KC_G)
 
 #define HOME_H RSFT_T(KC_H)
 #define HOME_A RCTL_T(KC_A)
